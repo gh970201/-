@@ -1,0 +1,1 @@
+import{W as o,o as r,O as t}from"./vendor.aa77eed0.js";import{_ as c}from"./index.2a827780.js";const _={};function n(a,s){const e=o;return r(),t(e,{description:"\u5C1A\u672A\u642D\u5EFA\u5B8C\u6210"})}var f=c(_,[["render",n]]);export{f as default};
